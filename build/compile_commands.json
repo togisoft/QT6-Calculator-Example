@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/syberturco/Masaüstü/Yazilim/qt/calculator/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/syberturco/Masaüstü/Yazilim/qt/calculator/build/calculator_autogen/include -I/home/syberturco/Masaüstü/Yazilim/qt/calculator/src/headers -isystem /opt/Qt/6.3.1/gcc_64/include/QtWidgets -isystem /opt/Qt/6.3.1/gcc_64/include -isystem /opt/Qt/6.3.1/gcc_64/include/QtCore -isystem /opt/Qt/6.3.1/gcc_64/mkspecs/linux-g++ -isystem /opt/Qt/6.3.1/gcc_64/include/QtGui -g -fPIC -o CMakeFiles/calculator.dir/calculator_autogen/mocs_compilation.cpp.o -c /home/syberturco/Masaüstü/Yazilim/qt/calculator/build/calculator_autogen/mocs_compilation.cpp",
+  "file": "/home/syberturco/Masaüstü/Yazilim/qt/calculator/build/calculator_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/syberturco/Masaüstü/Yazilim/qt/calculator/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/syberturco/Masaüstü/Yazilim/qt/calculator/build/calculator_autogen/include -I/home/syberturco/Masaüstü/Yazilim/qt/calculator/src/headers -isystem /opt/Qt/6.3.1/gcc_64/include/QtWidgets -isystem /opt/Qt/6.3.1/gcc_64/include -isystem /opt/Qt/6.3.1/gcc_64/include/QtCore -isystem /opt/Qt/6.3.1/gcc_64/mkspecs/linux-g++ -isystem /opt/Qt/6.3.1/gcc_64/include/QtGui -g -fPIC -o CMakeFiles/calculator.dir/src/sources/main.cpp.o -c /home/syberturco/Masaüstü/Yazilim/qt/calculator/src/sources/main.cpp",
+  "file": "/home/syberturco/Masaüstü/Yazilim/qt/calculator/src/sources/main.cpp"
+},
+{
+  "directory": "/home/syberturco/Masaüstü/Yazilim/qt/calculator/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/syberturco/Masaüstü/Yazilim/qt/calculator/build/calculator_autogen/include -I/home/syberturco/Masaüstü/Yazilim/qt/calculator/src/headers -isystem /opt/Qt/6.3.1/gcc_64/include/QtWidgets -isystem /opt/Qt/6.3.1/gcc_64/include -isystem /opt/Qt/6.3.1/gcc_64/include/QtCore -isystem /opt/Qt/6.3.1/gcc_64/mkspecs/linux-g++ -isystem /opt/Qt/6.3.1/gcc_64/include/QtGui -g -fPIC -o CMakeFiles/calculator.dir/src/sources/Calculator.cpp.o -c /home/syberturco/Masaüstü/Yazilim/qt/calculator/src/sources/Calculator.cpp",
+  "file": "/home/syberturco/Masaüstü/Yazilim/qt/calculator/src/sources/Calculator.cpp"
+},
+{
+  "directory": "/home/syberturco/Masaüstü/Yazilim/qt/calculator/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/syberturco/Masaüstü/Yazilim/qt/calculator/build/calculator_autogen/include -I/home/syberturco/Masaüstü/Yazilim/qt/calculator/src/headers -isystem /opt/Qt/6.3.1/gcc_64/include/QtWidgets -isystem /opt/Qt/6.3.1/gcc_64/include -isystem /opt/Qt/6.3.1/gcc_64/include/QtCore -isystem /opt/Qt/6.3.1/gcc_64/mkspecs/linux-g++ -isystem /opt/Qt/6.3.1/gcc_64/include/QtGui -g -fPIC -o CMakeFiles/calculator.dir/src/sources/Button.cpp.o -c /home/syberturco/Masaüstü/Yazilim/qt/calculator/src/sources/Button.cpp",
+  "file": "/home/syberturco/Masaüstü/Yazilim/qt/calculator/src/sources/Button.cpp"
+}
+]

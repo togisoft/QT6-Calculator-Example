@@ -1,0 +1,4 @@
+/home/syberturco/Masaüstü/Yazilim/qt/calculator/build/CMakeFiles/calculator.dir
+/home/syberturco/Masaüstü/Yazilim/qt/calculator/build/CMakeFiles/edit_cache.dir
+/home/syberturco/Masaüstü/Yazilim/qt/calculator/build/CMakeFiles/rebuild_cache.dir
+/home/syberturco/Masaüstü/Yazilim/qt/calculator/build/CMakeFiles/calculator_autogen.dir
